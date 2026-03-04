@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "pa!",
+  "base_artist": "SEE",
+  "createdAt": "2026-03-04T03:03:53.002611Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Get Them Out Ya Way Pa",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/01_Get_Them_Out_Ya_Way_Pa_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "PA Hustla",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/02_PA_Hustla_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "PA Hustla (prod. Johhny Julian",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/03_PA_Hustla_(prod._Johhny_Julian_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "PA Nights",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/04_PA_Nights_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Ain't Much Different - 1997 / Live At The Coca Cola Star Amphitheatre, Bugettstown, PA",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": false,
+      "path": "select/05_We_Ain't_Much_Different_-_1997___Live_At_The_Coca_Cola_Star_Amphitheatre,_Bugett_Lynyrd_Skynyrd.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pa-pa",
+      "artist": "The Rasmus",
+      "has_synced": false,
+      "path": "select/06_Pa-pa_The_Rasmus.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pa Pa Power",
+      "artist": "Dead Man's Bones",
+      "has_synced": false,
+      "path": "select/07_Pa_Pa_Power_Dead_Man's_Bones.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Alt på stell",
+      "artist": "Jaa9 & Onklp",
+      "has_synced": true,
+      "path": "select/08_Alt_på_stell_Jaa9_&_Onklp.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fotspor på vegga",
+      "artist": "Herreløse",
+      "has_synced": false,
+      "path": "select/09_Fotspor_på_vegga_Herreløse.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I en seng på hospitalet",
+      "artist": "Klovner I Kamp",
+      "has_synced": true,
+      "path": "select/10_I_en_seng_på_hospitalet_Klovner_I_Kamp.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cumbia Pa' Gozar",
+      "artist": "Los Angeles Azules, IMS & Toy Selectah",
+      "has_synced": true,
+      "path": "select/11_Cumbia_Pa'_Gozar_Los_Angeles_Azules,_IMS_&_Toy_Selectah.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cumbia pa' gozar",
+      "artist": "Los Ángeles Azules con IMS y Toy Selectah",
+      "has_synced": true,
+      "path": "select/12_Cumbia_pa'_gozar_Los_Ángeles_Azules_con_IMS_y_Toy_Selectah.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Vem ska jag tro på",
+      "artist": "September",
+      "has_synced": true,
+      "path": "select/13_Vem_ska_jag_tro_på_September.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Långa Bollar På Bengt",
+      "artist": "Sabaton",
+      "has_synced": true,
+      "path": "select/14_Långa_Bollar_På_Bengt_Sabaton.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "honda (feat. pa salieu)",
+      "artist": "FKA twigs feat. Pa Salieu",
+      "has_synced": true,
+      "path": "select/15_honda_(feat._pa_salieu)_FKA_twigs_feat._Pa_Salieu.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "honda (feat. pa salieu)",
+      "artist": "FKA twigs",
+      "has_synced": true,
+      "path": "select/16_honda_(feat._pa_salieu)_FKA_twigs.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Allt på ett kort",
+      "artist": "Bob Hund",
+      "has_synced": true,
+      "path": "select/17_Allt_på_ett_kort_Bob_Hund.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Wake Up, Ma and Pa Are Gone",
+      "artist": "Bound Stems",
+      "has_synced": true,
+      "path": "select/18_Wake_Up,_Ma_and_Pa_Are_Gone_Bound_Stems.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "pa!",
+      "artist": "SEE",
+      "has_synced": false,
+      "path": "select/pl_01_pa!_SEE.txt"
+    }
+  ]
+}
